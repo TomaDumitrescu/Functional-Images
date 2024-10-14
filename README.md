@@ -1,6 +1,5 @@
 ## Copyright 2024 Toma-Ioan Dumitrescu
 
-
 ## DSL Embedded for Images
 
 ## Description
